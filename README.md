@@ -28,6 +28,6 @@ Thank you Tim for the wonderful intro to pygame!
 
 Near miss distances are flashed onto the screen (surface) with blit. For all planets. Nearer misses are slowed down with 1 sec delay to see if the encounter is less than .001 AU. That is really fun. It has never happened that the asteroid comes within 20000 miles of Earth. But, as mentioned, the effect of Jupiter is amazing even a million miles away.
 
-The simulation slows down by 50% as the orbit data LIST grows to 4000 tuples. I suppose another GB of RAM on my phone would fix fhis. Not a big issue.
+The simulation slows down by 50% as the orbit data LIST grows to 4000 tuples. I suppose another GB of RAM on my phone would fix this. Not a big issue.
 
 later, etc
